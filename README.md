@@ -1,6 +1,9 @@
 ## Hi there 👋
+project name: Safe-Horizon
+Team member: Nervana Maged - Mohammed Ahmed - Mariam Gerges - Rasha Alsaid - Haneen Abdelwahab - Fairoz Tarik
+Safe Horizon offers safe, interactive mental health support for kids, teens, and parents.
 
-<!--
+
 **Safe-Horizon/Safe-Horizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
