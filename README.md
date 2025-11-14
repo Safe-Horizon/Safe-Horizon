@@ -1,10 +1,10 @@
-Project Name
+#Project Name
 
 Safe Horizon
 
 ⸻
 
-Project Idea
+#Project Idea
 
 Safe Horizon is a specialized mental health platform designed for children and teenagers, offering guidance and psychological support in a safe and comforting environment. The project also provides dedicated resources for parents to help them understand their children’s emotional needs and support them effectively.
 The platform additionally includes a section for certified mental health specialists, allowing families to access expert insights, consultations, and professional follow-up when needed.
@@ -12,7 +12,7 @@ Here is the full, polished English version in one complete message—perfect for
 
 ⸻
 
-Work Plan
+#Work Plan
 	1.	Research & Analysis
 	•	Collect information about mental health challenges faced by children and teenagers.
 	•	Analyze competing mental health platforms.
@@ -46,7 +46,7 @@ The website structure is organized as follows:
 
 ⸻
 
-Target Audience / Personas
+#Target Audience / Personas
 	1.	Children (8–12 years)
 – Simple educational content, interactive activities, and easy-to-read articles.
 	2.	Teenagers (13–20 years)
@@ -59,7 +59,7 @@ Target Audience / Personas
 
 ⸻
 
-Visual Identity
+#Visual Identity
 	•	Soft pastel colors that convey calmness and emotional safety.
 	•	Subtle child-friendly touches without exaggeration.
 	•	Clear and simple iconography.
@@ -67,14 +67,14 @@ Visual Identity
 
 ⸻
 
-Logo Concept
+#Logo Concept
 	•	A minimal symbol of an interconnected family representing emotional safety.
 	•	A subtle, abstract combination of a parent and child in one form.
 	•	Soft, rounded lines to create a sense of comfort and trust.
 
 ⸻
 
-Main Designs
+#Main Designs
 	•	Home Page
 	•	Articles / Blogs Page
 	•	Psychological Tests Page for children and teens
@@ -85,14 +85,14 @@ Main Designs
 
 ⸻
 
-Complementary Products
+#Complementary Products
 	•	Social media templates
 	•	Educational stickers for children
 	•	Icons pack
 
 ⸻
 
-Review & Finalization
+#Review & Finalization
 	•	Review color palette and typography
 	•	Adjust spacing and overall visual balance
 	•	Ensure usability and smooth navigation
@@ -100,26 +100,29 @@ Review & Finalization
 
 ⸻
 
-Roles & Responsibilities
+#Roles & Responsibilities
 
-Website Pages
-	•	Nirvana – Header, Hero Section, About
-	•	Mohamed – What We Offer, Events & Workshops
-	•	Fayrouz – Tools & Footer
-	•	Haneen – Reviews & Success Stories
-	•	Mariam – Doctors Page
-	•	Rasha – Privacy & Safety Commitment
+#Website Pages
+	•	Nervana maged – Header, Hero Section, About
+	•	Mohamed Ahmed What We Offer, Events & Workshops
+	•	Fayrouz tarek – Tools & Footer
+	•	Haneen abdelwahab – Reviews & Success Stories
+	•	Mariam gerges – Doctors Page
+	•	Rasha el said – Privacy & Safety Commitment
 
 Mobile Application Pages
-	•	Nirvana – Home / Calendar
-	•	Haneen – Community / Experts & Chat
-	•	Fayrouz – Tests
-	•	Rasha – Child / My Account
-	•	Mariam – Teens
-	•	Mohamed – Sign Up / Account Setup / Parents
+	•	Nervana Maged – Home / Calendar
+	•	Haneen abdelwahab – Community / Experts & Chat
+	•	Fayrouz tarek – Tests
+	•	Rasha Elsaid – Child / My Account
+	•	Mariam gerges – Teens
+	•	Mohamed Ahmed – Sign Up / Account Setup / Parents
 
 ⸻
 
 Instructor
 
 Eman Abdel Latif
+
+#project
+https://www.figma.com/design/aJClrRteeknWTnAI80QSZW/FINAL-PROJECT---SAFE-HORIZONS?node-id=0-1&t=VRLnoIQFfvrt4PgI-1
