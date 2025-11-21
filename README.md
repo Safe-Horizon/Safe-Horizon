@@ -16,6 +16,8 @@ https://www.figma.com/board/cH6TZsobVM2uRHxvCXQsXe/UX-analysis-final-project?nod
 
 https://www.figma.com/design/aJClrRteeknWTnAI80QSZW/FINAL-PROJECT---SAFE-HORIZONS?node-id=0-1&t=9gmYDXa9Q5VI0HdV-1
 
+[CS.pdf](https://github.com/user-attachments/files/23682352/CS.pdf)
+
 ⸻
 #team members
 1.Nervana Maged
