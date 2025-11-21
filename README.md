@@ -1,10 +1,10 @@
-#Project name
+#Project Name
 
 Safe Horizon
 
 ⸻
 
-#Projec Idea
+#Project Idea
 
 Safe Horizon is a specialized mental health platform designed for children and teenagers, offering guidance and psychological support in a safe and comforting environment. The project also provides dedicated resources for parents to help them understand their children’s emotional needs and support them effectively.
 The platform additionally includes a section for certified mental health specialists, allowing families to access expert insights, consultations, and professional follow-up when needed.
