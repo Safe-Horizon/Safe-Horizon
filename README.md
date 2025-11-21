@@ -10,7 +10,20 @@ Safe Horizon is a specialized mental health platform designed for children and t
 The platform additionally includes a section for certified mental health specialists, allowing families to access expert insights, consultations, and professional follow-up when needed.
 Here is the full, polished English version in one complete message—perfect for placing directly into your project document:
 
+
+#links
+https://www.figma.com/board/cH6TZsobVM2uRHxvCXQsXe/UX-analysis-final-project?node-id=0-1&t=vz7lknxCFindIzmA-1
+
+https://www.figma.com/design/aJClrRteeknWTnAI80QSZW/FINAL-PROJECT---SAFE-HORIZONS?node-id=0-1&t=9gmYDXa9Q5VI0HdV-1
+
 ⸻
+#team members
+1.Nervana Maged
+2.Mohammed Ahmed
+3.Fayrouz tarek
+4.Rasha Elsaid 
+5.Mariam gerges
+6.Haneen abdelwahab
 
 #Work Plan
 	1.	Research & Analysis
@@ -100,8 +113,6 @@ The website structure is organized as follows:
 
 ⸻
 
-#Roles & Responsibilities
-
 #Website Pages
 	•	Nervana maged – Header, Hero Section, About
 	•	Mohamed Ahmed What We Offer, Events & Workshops
@@ -110,7 +121,7 @@ The website structure is organized as follows:
 	•	Mariam gerges – Doctors Page
 	•	Rasha el said – Privacy & Safety Commitment
 
-Mobile Application Pages
+#Mobile Application Pages
 	•	Nervana Maged – Home / Calendar
 	•	Haneen abdelwahab – Community / Experts & Chat
 	•	Fayrouz tarek – Tests
@@ -124,5 +135,3 @@ Instructor
 
 Eman Abdel Latif
 
-#project
-https://www.figma.com/design/aJClrRteeknWTnAI80QSZW/FINAL-PROJECT---SAFE-HORIZONS?node-id=0-1&t=VRLnoIQFfvrt4PgI-1
